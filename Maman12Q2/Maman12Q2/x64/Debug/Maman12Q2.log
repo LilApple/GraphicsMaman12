@@ -1,0 +1,5 @@
+﻿  parbola.cpp
+C:\Users\sha97\test\parbola.cpp(12,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\sha97\test\parbola.cpp(12,14): error C2146: syntax error: missing ';' before identifier 'TITLE'
+C:\Users\sha97\test\parbola.cpp(12,20): error C2059: syntax error: '='
+C:\Users\sha97\test\parbola.cpp(101,22): error C2065: 'TITLE': undeclared identifier
